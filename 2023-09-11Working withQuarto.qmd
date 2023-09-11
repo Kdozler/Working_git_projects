@@ -1,0 +1,16 @@
+---
+title: "Working with Quarto and git"
+author: 
+  -Kaitlyn Dozler
+date: today
+format: 
+  html:
+    self-contained: true
+editor: source
+---
+
+### Introduction
+
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.  
+
+Lots of help can be found [here](https://quarto.org/docs/guide/)
